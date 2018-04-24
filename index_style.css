@@ -82,7 +82,7 @@ h1 {
 .main h1 {
   color: rgb(159,197,232);
   font-family: 'Syncopate', sans-serif;
-  font-size:8vw;
+  font-size:6vw;
   text-align: center;
   margin-top: 0;
   margin-bottom: 0px;
@@ -92,4 +92,13 @@ h1 {
 img {
   display: block;
   margin: 0 auto;
+}
+
+
+.col-md-offset-3 {
+    margin-left: 10%;
+}
+
+.col-md-6 {
+    width: 80%;
 }
