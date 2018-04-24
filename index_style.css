@@ -11,7 +11,7 @@ body {
 
 .container {
   max-width: 100%;
-  min-height: 45px;
+  min-height: 100%;
   margin: 0 auto;
   padding: 0 10px;
 }
@@ -91,5 +91,5 @@ h1 {
 
 img {
   display: block;
-  margin: 0 auto;
+  margin: 0 0;
 }
