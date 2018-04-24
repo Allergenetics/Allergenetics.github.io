@@ -69,7 +69,7 @@ li:link {
 
 .main {
   position: relative;
-  top: 70px;
+  top: 10%;
   text-align: center;
 }
 
@@ -91,5 +91,5 @@ h1 {
 
 img {
   display: block;
-  margin: 0 0;
+  margin: 0 auto;
 }
