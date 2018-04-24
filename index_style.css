@@ -95,7 +95,8 @@ img {
 }
 
 .contactContainer {
-  width: 4vw;
+  width: 70%;
+  margin: auto;
 }
 
 .col-md-offset-3 {
