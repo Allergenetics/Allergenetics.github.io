@@ -94,6 +94,9 @@ img {
   margin: 0 auto;
 }
 
+.contactContainer {
+  width: 4vw;
+}
 
 .col-md-offset-3 {
     margin-left: 10%;
