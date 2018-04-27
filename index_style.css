@@ -69,7 +69,7 @@ li:link {
 
 .main {
   position: relative;
-  top: 30px;
+  top: 20px;
   text-align: center;
 }
 
@@ -142,4 +142,8 @@ a {
 
 .smButtonContainer {
   display: flex;
+}
+
+.well {
+  margin-bottom: 5px;
 }
