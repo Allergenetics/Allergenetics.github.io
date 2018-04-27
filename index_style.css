@@ -141,5 +141,5 @@ a {
 }
 
 .smButtonContainer {
-  display: inline-block;
+  display: flex;
 }
